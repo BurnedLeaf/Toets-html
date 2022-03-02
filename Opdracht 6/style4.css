@@ -1,0 +1,44 @@
+.box {
+  display: flex;
+}
+
+.box > * {
+  flex-basis: 16.66%;
+  height: 50px;
+}
+
+.one {
+  text-align: center;
+  background-color: red;
+  height: 50px;
+}
+
+.two {
+  text-align: center;
+  background-color: blue;
+}
+
+.three {
+  text-align: center;
+  background-color: purple;
+}
+
+.four {
+  text-align: center;
+  background-color: yellow;
+}
+
+.five {
+  text-align: center;
+  background-color: green;
+}
+
+.six {
+  text-align: center;
+  background-color: pink;
+}
+
+.one .two .three .four .five .six p {
+  position: relative;
+  top: 20px;
+}
