@@ -1,0 +1,19 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  width: 30%;
+  height: 40%;
+  border: 2px solid black;
+}
+.grid-item {
+  font-size: 30px;
+  text-align: center;
+}
+.grid-item1 {
+  background-color: white;
+  height: 50px;
+}
+
+.grid-item2 {
+  background-color: black;
+}
