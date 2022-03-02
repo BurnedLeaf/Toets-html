@@ -1,0 +1,89 @@
+.Home {
+  background-color: red;
+  width: 100%;
+  height: 70px;
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+}
+.Diensten {
+  background-color: blue;
+  width: 100%;
+  height: 70px;
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+}
+.Producten {
+  background-color: purple;
+  width: 100%;
+  height: 70px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.Onsteam {
+  background-color: yellow;
+  width: 100%;
+  height: 70px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.Onzewerkwijze {
+  background-color: green;
+  width: 100%;
+  height: 70px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.Contacten {
+  background-color: pink;
+  width: 100%;
+  height: 70px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.Contacten p {
+  position: relative;
+  font-size: 30px;
+  top: 15px;
+  margin: 0;
+}
+
+.Onzewerkwijze p {
+  position: relative;
+  font-size: 30px;
+  top: 15px;
+  margin: 0;
+}
+
+.Onsteam p {
+  position: relative;
+  font-size: 30px;
+  top: 15px;
+  margin: 0;
+}
+
+.Producten p {
+  position: relative;
+  font-size: 30px;
+  top: 15px;
+  margin: 0;
+}
+
+.Diensten p {
+  position: relative;
+  font-size: 30px;
+  top: 15px;
+  margin: 0;
+}
+
+.Home p {
+  position: relative;
+  font-size: 30px;
+  top: 15px;
+  margin: 0;
+}
