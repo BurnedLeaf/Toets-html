@@ -1,0 +1,41 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-item1 {
+  font-size: 30px;
+  text-align: center;
+  background-color: red;
+  height: 50px;
+}
+
+.grid-item2 {
+  font-size: 30px;
+  text-align: center;
+  background-color: blue;
+}
+
+.grid-item3 {
+  font-size: 30px;
+  text-align: center;
+  background-color: purple;
+}
+
+.grid-item4 {
+  font-size: 30px;
+  text-align: center;
+  background-color: yellow;
+  height: 50px;
+}
+
+.grid-item5 {
+  font-size: 30px;
+  text-align: center;
+  background-color: green;
+}
+.grid-item6 {
+  font-size: 30px;
+  text-align: center;
+  background-color: pink;
+}
